@@ -25,3 +25,18 @@ section {
   display: inline-block;
   position: relative;
 }
+
+.sconto {
+  font-size: 20px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.scontobasso {
+  background-color: red;
+}
+
+.scontoalto {
+  background-color: green;
+}
