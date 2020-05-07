@@ -1,0 +1,27 @@
+/* regole generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  width: 1300px;
+  margin: auto;
+}
+
+.primasezione {
+  padding-top: 10px;
+}
+
+.sezionisuccessive {
+  padding-top: 40px;
+}
+
+.grey {
+  background-color: lightgrey;
+  width: 400px;
+  height: 400px;
+  display: inline-block;
+  position: relative;
+}
