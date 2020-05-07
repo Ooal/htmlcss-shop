@@ -10,6 +10,13 @@ section {
   margin: auto;
 }
 
+img {
+  vertical-align: top;
+  position: absolute;
+  bottom: 20%;
+  right: 28%;
+}
+
 .primasezione {
   padding-top: 10px;
 }
@@ -19,7 +26,7 @@ section {
 }
 
 .grey {
-  background-color: lightgrey;
+  background-color: #e6e6e6;
   width: 400px;
   height: 400px;
   display: inline-block;
@@ -40,3 +47,6 @@ section {
 .scontoalto {
   background-color: green;
 }
+
+
+
