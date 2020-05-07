@@ -12,9 +12,6 @@ section {
 
 img {
   vertical-align: top;
-  position: absolute;
-  bottom: 20%;
-  right: 28%;
 }
 
 .primasezione {
@@ -48,5 +45,25 @@ img {
   background-color: green;
 }
 
+.prodotto {
+  position: absolute;
+  bottom: 20%;
+  right: 28%;
+}
 
+.cuore {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right: 48%;
+  bottom: 10%;
+
+}
+
+.grey .cuore {
+  display: none;
+}
+.grey:hover .cuore {
+  display: block;
+}
 
